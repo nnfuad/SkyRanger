@@ -19,8 +19,8 @@ This system is inspired by the YMFC-AL architecture and adapted for academic pro
 - **Course:** ECE 2200 – Electronic Shop Practice  
 - **Semester:** 2nd Year, Even Semester  
 - **Submitted To:**  
-  - (Md. Omaer Faruq Goni) [https://www.ruet.ac.bd/omaerfaruq] (Assistant Professor, Department of ECE, RUET)  
-  - (Oishi Jyoti) [https://www.ruet.ac.bd/ojruet] (Assistant Professor, Department of ECE, RUET)  
+  - (Md. Omaer Faruq Goni)[https://www.ruet.ac.bd/omaerfaruq] (Assistant Professor, Department of ECE, RUET)  
+  - (Oishi Jyoti)[https://www.ruet.ac.bd/ojruet] (Assistant Professor, Department of ECE, RUET)  
 - **Submission Date:** January 10, 2026  
 
 The full structured report follows RUET academic guidelines :contentReference[oaicite:0]{index=0}
