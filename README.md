@@ -216,10 +216,10 @@ This project demonstrates:
 ## Author
 
 **SkyRanger Team**  
-Project and Software Lead: [Nur Nafis Fuad](https://github.com/nnfuad)
-Project and Hardware Lead: [Gulam Gilani Hassan](https://github.com/xilanihasan)
-Logistics Management: [Kifayat Mashud Nitol](https://web.facebook.com/kifayat.nitol?mibextid=ZbWKwL&_rdc=1&_rdr#)
-Finance and Creative Support: [Huzayfa Bin Jamal](https://www.linkedin.com/in/md-hujayfa-bin-jamal-992359281?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+Project and Software Lead: [Nur Nafis Fuad](https://github.com/nnfuad) <br>
+Project and Hardware Lead: [Gulam Gilani Hassan](https://github.com/xilanihasan) <br>
+Logistics Management: [Kifayat Mashud Nitol](https://web.facebook.com/kifayat.nitol?mibextid=ZbWKwL&_rdc=1&_rdr#) <br>
+Finance and Creative Support: [Huzayfa Bin Jamal](https://www.linkedin.com/in/md-hujayfa-bin-jamal-992359281?utm_source=share_via&utm_content=profile&utm_medium=member_android)<br><br>
 
 Department of Electrical & Computer Engineering  
 Rajshahi University of Engineering & Technology (RUET)
