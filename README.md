@@ -1,3 +1,5 @@
+# SkyRanger
+SkyRanger is a manually built quadcopter flight controller system.
 # SkyRanger Drone Project (RUET ECE 2200)
 
 ## Overview
@@ -17,10 +19,15 @@ This system is inspired by the YMFC-AL architecture and adapted for academic pro
 
 - **Department:** Electrical & Computer Engineering, RUET  
 - **Course:** ECE 2200 – Electronic Shop Practice  
-- **Semester:** 2nd Year, Even Semester  
+- **Semester:** 2nd Year, Even Semester
+- **Submitted By**
+  - [Nur Nafis Fuad](https://github.com/nnfuad)
+  - [Gulam Gilani Hassan](https://github.com/xilanihasan)
+  - [Kifayat Mashud Nitol](https://web.facebook.com/kifayat.nitol?mibextid=ZbWKwL&_rdc=1&_rdr#)
+  - [Huzayfa Bin Jamal](https://www.linkedin.com/in/md-hujayfa-bin-jamal-992359281?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **Submitted To:**  
-  - (Md. Omaer Faruq Goni)[https://www.ruet.ac.bd/omaerfaruq] (Assistant Professor, Department of ECE, RUET)  
-  - (Oishi Jyoti)[https://www.ruet.ac.bd/ojruet] (Assistant Professor, Department of ECE, RUET)  
+  - [Md. Omaer Faruq Goni](https://www.ruet.ac.bd/omaerfaruq) (Assistant Professor, Department of ECE, RUET)  
+  - [Oishi Jyoti](https://www.ruet.ac.bd/ojruet) (Assistant Professor, Department of ECE, RUET)  
 - **Submission Date:** January 10, 2026  
 
 The full structured report follows RUET academic guidelines :contentReference[oaicite:0]{index=0}
@@ -209,10 +216,10 @@ This project demonstrates:
 ## Author
 
 **SkyRanger Team**  
-Project and Software Lead: (Nur Nafis Fuad) [https://github.com/nnfuad]
-Project and Hardware Lead: (Gulam Gilani Hassan) [https://github.com/xilanihasan]
-Logistics Management: (Kifayat Mashud Nitol) [https://web.facebook.com/kifayat.nitol?mibextid=ZbWKwL&_rdc=1&_rdr#]
-Finance and Creative Support: (Huzayfa Bin Jamal) [https://www.linkedin.com/in/md-hujayfa-bin-jamal-992359281?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+Project and Software Lead: [Nur Nafis Fuad](https://github.com/nnfuad)
+Project and Hardware Lead: [Gulam Gilani Hassan](https://github.com/xilanihasan)
+Logistics Management: [Kifayat Mashud Nitol](https://web.facebook.com/kifayat.nitol?mibextid=ZbWKwL&_rdc=1&_rdr#)
+Finance and Creative Support: [Huzayfa Bin Jamal](https://www.linkedin.com/in/md-hujayfa-bin-jamal-992359281?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 Department of Electrical & Computer Engineering  
 Rajshahi University of Engineering & Technology (RUET)
