@@ -58,7 +58,7 @@ SkyRanger/
 | `SkyRanger-AL_esc_calibrate/` | ESC calibration program |
 | `SkyRanger-AL_Flight_controller/` | Main flight control firmware |
 | `SkyRanger_schematic.pdf` | Circuit diagram |
-| `SkyRangerReport.pdf` | Full academic report |
+| [`SkyRangerReport.pdf`](https://drive.google.com/file/d/13A6oUpaueokRdE7rlazzREHNI392rdw_/view?usp=sharing) | Full academic report | Not Available in Github.
 
 ---
 
