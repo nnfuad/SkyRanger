@@ -229,8 +229,6 @@ Rajshahi University of Engineering & Technology (RUET)
 ## Final Note
 
 This project prioritizes **learning over abstraction**.  
-Every instability, bug, and calibration issue is part of the engineering process.
-
-```
+Every instability, bug, and calibration issue is part of the fun engineering process. Yeah, 'fun'  :(
 
 ---
