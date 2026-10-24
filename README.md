@@ -112,7 +112,7 @@ The order of execution is **strict**. Skipping steps will cause instability or f
 - Upload `SkyRanger-AL_esc_calibrate`
 - Calibrate throttle range of all ESCs
 
-⚠️ Known issue (from YMFC):
+Known issue (from YMFC):
 Serial input buffering must be handled carefully to avoid program halt :contentReference[oaicite:2]{index=2}
 
 ### Step 4: Flight Controller
